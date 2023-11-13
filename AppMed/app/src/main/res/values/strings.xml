@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mechri_Baderdine_Mesure_Glycemie</string>
+    <string name="titlee">Mesure de niveau de glycémie</string>
+    <string name="age">Age\n</string>
+    <string name="resultat">...</string>
+
+</resources>
